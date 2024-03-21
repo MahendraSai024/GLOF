@@ -1,0 +1,704 @@
+,Year_approx,Lake_name,Glacier_name,GL_ID,Lat_lake,Lon_lake,Elev_lake,Lat_impact,Lon_impact,Elev_impact,Lake_type,Transboundary,Country,Province,River_Basin,Driver_lake,Driver_GLOF,Mechanism,Repeat
+0,1533.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+1,1560.0,Machhapuchhre,Machhapuchhre,No lake,28.52,83.992,3741.0,28.542063219607844,85.27488900130719,4166.418954248366,Supraglacial,1,Nepal,Gandaki,Seti,Missing,Missing,Missing,0
+2,1661.0,Biafo,Biafo,GL075907E35687N,35.687,75.907,3059.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Braldu,Glacier advance,Missing,Missing,1
+3,1780.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+4,1833.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+5,1833.0,Yashkuk-Yaz,Yashkuk-Yaz,Ephemeral,36.824,74.369,3370.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,0
+6,1835.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,34.930229,76.615853,2628.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+7,1839.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+8,1842.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+9,1844.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+10,1846.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+11,1850.0,Tarshing,Tarshing,Ephemeral,35.232,74.722,2940.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Indus,Missing,Missing,Missing,1
+12,1855.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+13,1860.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+14,1860.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,Ephemeral,35.668,75.378,4030.0,35.674875,75.445221,2370.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Shigar,Missing,Missing,Missing,0
+15,1864.0,Kichik Kumden,Kichik Kumden,Ephemeral,35.128,77.763,4613.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+16,1865.0,Sokhter Rabot ,Unnamed Glacier in Pakistan,Ephemeral,36.7946,73.99494,3463.0,35.922147,74.352607,1430.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+17,1865.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,35.926146,74.266804,1470.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+18,1869.0,Kichik Kumden,Kichik Kumden,Ephemeral,35.128,77.763,4613.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+19,1871.0,Aktash,Aktash,Ephemeral,35.102,77.774,4581.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+20,1873.0,Batura,Batura,Ephemeral,36.510556,74.850591,2713.0,36.463266,74.901306,2450.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+21,1877.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+22,1879.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.773033,72.23978,260.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+23,1880.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+24,1882.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+25,1882.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.773033,72.23978,260.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+26,1882.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+27,1884.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.308712,74.662465,2077.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+28,1885.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+29,1890.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+30,1890.0,Diran,Diran,Ephemeral,36.069195,74.620675,3986.0,36.037814,74.601833,2735.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,0
+31,1890.0,Biafo,Biafo,GL075907E35687N,35.687,75.907,3059.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Braldu,Glacier advance,Missing,Missing,1
+32,1892.0,Bualtar,Bualtar,Ephemeral,36.176,74.761,2918.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Glacier advance,Missing,Missing,1
+33,1892.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+34,1893.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,35.926146,74.266804,1470.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+35,1893.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.308712,74.662465,2077.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+36,1894.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292804,74.603839,2060.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+37,1895.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+38,1895.0,Tarshing,Tarshing,Ephemeral,35.232,74.722,2940.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Indus,Missing,Missing,Missing,1
+39,1895.0,Biafo,Biafo,GL075907E35687N,35.687,75.907,3060.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Braldu,Glacier advance,Missing,Missing,1
+40,1897.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+41,1898.0,Aktash,Aktash,Ephemeral,35.102,77.774,4581.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+42,1899.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+43,1900.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.239538,74.413711,1830.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+44,1901.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.308712,74.662465,2077.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+45,1902.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+46,1902.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+47,1902.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+48,1903.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+49,1903.0,Kichik Kumden,Kichik Kumden,Ephemeral,35.128,77.763,4613.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+50,1904.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+51,1904.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+52,1904.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+53,1904.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+54,1905.0,Sokhter Rabot ,Unnamed Glacier in Pakistan,Ephemeral,36.7946,73.99494,3595.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+55,1905.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,35.926146,74.266804,1470.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+56,1905.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.236059,74.306433,1743.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+57,1905.0,Kichik Kumden,Kichik Kumden,Ephemeral,35.128,77.763,4613.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+58,1905.0,Dubani,Dubani,Ephemeral,35.93,74.609,4121.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+59,1906.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,35.434129,74.104712,1010.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+60,1906.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.236059,74.306433,1743.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+61,1907.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+62,1908.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+63,1909.0,Warghut ,Unnamed Glacier in Pakistan,Ephemeral,36.746817,74.002922,3409.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+64,1909.0,Gutumi,Gutumi,Ephemeral,36.013093,74.606801,3460.0,36.040682,74.575998,2582.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,0
+65,1909.0,Tarshing,Tarshing,Ephemeral,35.232,74.722,2940.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Indus,Missing,Missing,Missing,1
+66,1910.0,Russian Geographical Society,Russian Geographical Society,GL071728E37219N,38.69,72.09,2620.0,37.80266666666666,72.12566666666667,3240.0,Moraine dammed,1,Tajikistan,Tajikistan,Vanch,Missing,Missing,Missing,0
+67,1910.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+68,1910.0,Batura,Batura,Ephemeral,36.510556,74.850591,2713.0,36.463266,74.901306,2450.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+69,1910.0,Gurpi,Gurpi,Ephemeral,36.329,74.742,3100.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Glacier advance,Missing,Missing,0
+70,1911.0,Saklei Shuyinj,Unnamed Glacier in Pakistan,Ephemeral,36.841689,73.833068,4158.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+71,1912.0,Saklei Shuyinj,Unnamed Glacier in Pakistan,Ephemeral,36.841689,73.833068,4158.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+72,1912.0,Bualtar,Bualtar,Ephemeral,36.176,74.761,2918.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Glacier advance,Missing,Missing,1
+73,1913.0,Saklei Shuyinj,Unnamed Glacier in Pakistan,Ephemeral,36.841689,73.833068,4158.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+74,1913.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+75,1914.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+76,1916.0,Chilinji,Chilinji,Ephemeral,36.773776,74.013631,3555.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,0
+77,1916.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+78,1916.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+79,1917.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+80,1918.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+81,1921.0,Lhonak (Ghunsa 1),Unnamed Glacier in Nepal,Ephemeral,27.829351,88.03762,5100.0,27.78989,88.03161,4760.0,Supraglacial,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+82,1922.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+83,1922.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+84,1923.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+85,1924.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+86,1926.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+87,1926.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,31.737953293750003,87.12621108125,3902.60625,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+88,1926.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.773033,72.23978,260.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+89,1927.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+90,1927.0,Koz-Yaz,Koz-Yaz,Ephemeral,36.818,74.158,3979.0,36.838951,74.263141,3540.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+91,1928.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+92,1928.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+93,1928.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+94,1928.0,Koz-Yaz,Koz-Yaz,Ephemeral,36.818,74.158,3879.0,36.838951,74.263141,3540.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+95,1929.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+96,1929.0,Gasherbrum,Gasherbrum,Ephemeral,35.899,76.764,4240.0,31.45674792956606,87.28354125501943,3898.2077396373056,Ice dammed,0,China,Xinjiang,Shaksgam,Surging glacier,Missing,Missing,1
+97,1929.0,Singhku,Singhku,Ephemeral,35.719,77.009,4520.0,31.45674792956606,87.28354125501943,3898.2077396373056,Ice dammed,0,China,Xinjiang,Shaksgam,Surging glacier,Missing,Missing,0
+98,1929.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.989549,73.61331542857143,1015.4285714285714,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+99,1931.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+100,1931.0,Lulang,Unnamed Glacier in China,GL077181E35675N,29.741,96.226,4880.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,TAR,Parlung Zangbo,Missing,Ice avalanche,Missing,0
+101,1932.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.773033,72.23978,260.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+102,1932.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+103,1933.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,33.773033,72.23978,260.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+104,1933.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+105,1934.0,Chong Kumden,Chong Kumden,Ephemeral,35.172,77.702,4691.0,34.131449,77.478455,3180.0,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+106,1934.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+107,1934.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+108,1935.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+109,1935.0,Tara Co,Unnamed Glacier in China,GL086131E28294N,28.295,86.132,5252.0,28.453,86.176,4550.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Ice avalanche,Dam piping,0
+110,1936.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+111,1936.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+112,1937.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+113,1937.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+114,1938.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+115,1938.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+116,1939.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+117,1940.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+118,1940.0,Qiongbixiama Co,Unnamed Glacier in China,GL088915E27849N,27.85,88.915,4767.0,27.727,88.968,3849.0,Moraine dammed,1,China,TAR,Amo Chhu,Missing,Missing,Missing,0
+119,1941.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+120,1941.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+121,1941.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+122,1942.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+123,1943.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+124,1943.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+125,1944.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.312161,74.673558,2105.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+126,1949.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+127,1950.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+128,1950.0,Sangwang Co,Unnamed Glacier in China,GL090104E28237N,28.238799,90.109247,5150.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,1
+129,1951.0,Lake number 2,Central Tuyuksu,Ephemeral,43.066,77.083,3382.0,43.156500739130436,77.08971586956521,2000.7391304347825,Moraine dammed,0,Kazakhstan,Almaty,Kishi Almaty,Missing,Missing,Moraine collapse,1
+130,1951.0,Kotor,Kotor,Ephemeral,35.93,74.609,4121.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,0
+131,1953.0,Kutiah,Kutiah,Ephemeral,35.768,75.064,2970.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Indus,Glacier advance,Missing,Missing,0
+132,1953.0,Gasherbrum,Gasherbrum,Ephemeral,35.899,76.764,4240.0,31.45674792956606,87.28354125501943,3898.2077396373056,Ice dammed,0,China,Xinjiang,Shaksgam,Surging glacier,Missing,Missing,1
+133,1953.0,Urdok,Urdok,Ephemeral,35.856,76.771,4277.0,31.45674792956606,87.28354125501943,3898.2077396373056,Ice dammed,0,China,Xinjiang,Shaksgam,Surging glacier,Missing,Missing,0
+134,1953.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+135,1953.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+136,1953.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+137,1953.0,Guxiang ,Unnamed Glacier in China,GL077181E35675N,30.042,95.46,4155.0,30.076,95.501,3085.0,Moraine dammed,0,China,TAR,Bomi,Missing,Missing,Missing,0
+138,1954.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+139,1954.0,Sangwang Co,Unnamed Glacier in China,GL090104E28237N,28.238799,90.109247,5150.0,28.925312,89.580432,4015.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Ice calving,Missing,1
+140,1955.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+141,1955.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+142,1955.0,Hailuogou,Hailuogou,GL077181E35675N,29.566,101.985,3100.0,31.45674792956606,87.28354125501943,3898.2077396373056,Moraine dammed,0,China,TAR,Yalong Tsangpo,Missing,Missing,Missing,1
+143,1956.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+144,1956.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+145,1956.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+146,1956.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+147,1956.0,Lake number 2,Central Tuyuksu,Ephemeral,43.066,77.083,3382.0,43.156500739130436,77.08971586956521,2000.7391304347825,Moraine dammed,0,Kazakhstan,Almaty,Kishi Almaty,Missing,Missing,Dam piping,1
+148,1957.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+149,1957.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+150,1957.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+151,1957.0,Fedchenko,Fedchenko,GL071728E37219N,39.074,72.312,3949.25,37.80266666666666,72.12566666666667,3240.0,Moraine dammed,1,Tajikistan,Tajikistan,Tajikistan,Missing,Missing,Missing,1
+152,1957.0,Tarina Tsho,Unnamed Glacier in Bhutan,GL089899E28106N,28.104,89.899,4280.0,27.35,89.52,1220.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Ice avalanche,Missing,0
+153,1958.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+154,1958.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+155,1958.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+156,1958.0,Lake number 17,Zharsai,Ephemeral,43.152,77.408,3380.0,43.26598,77.48006000000001,1550.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Izzyk,Missing,Missing,Subglacial tunnel,1
+157,1959.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+158,1959.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+159,1959.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+160,1959.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+161,1959.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+162,1959.0,Tarina Tsho,Unnamed Glacier in Bhutan,GL089899E28106N,28.104,89.899,4280.0,27.35,89.52,1220.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Missing,Missing,0
+163,1960.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+164,1960.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+165,1960.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+166,1960.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+167,1961.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+168,1961.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+169,1961.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+170,1961.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+171,1961.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+172,1961.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+173,1962.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+174,1962.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+175,1963.0,Abdukagor,Medvezhiy ,GL071728E37219N,38.631723,72.146101,3949.25,37.80266666666666,72.12566666666667,3240.0,Ice dammed,1,Tajikistan,Tajikistan,Vanch,Missing,Missing,Subglacial tunnel,1
+176,1963.0,Abdukagor,Medvezhiy ,GL071728E37219N,38.631723,72.146101,3949.25,37.80266666666666,72.12566666666667,3240.0,Ice dammed,1,Tajikistan,Tajikistan,Vanch,Missing,Missing,Subglacial tunnel,1
+177,1963.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+178,1963.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+179,1963.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+180,1963.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+181,1963.0,Lake number 17,Zharsai,Ephemeral,43.152,77.408,3380.0,43.29796,77.49812,1280.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Izzyk,Missing,Missing,Subglacial tunnel,1
+182,1963.0,Tiptola (Olangchun Gola 1),Chhochenphu,GL087750E27816N,27.82,87.75,4909.0,27.693,87.761,3388.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Ice avalanche,Missing,1
+183,1964.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+184,1964.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+185,1964.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+186,1964.0,Longda Co,Unnamed Glacier in China,GL085457E28568N,28.569,85.457,4504.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Gyirong,Missing,Ice avalanche,Missing,0
+187,1964.0,Cirenma Co,Zhangzangbo,GL086065E28067N,28.067,86.065,4644.0,27.973413,85.964012,1770.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Dam seepage,1
+188,1964.0,Tara Co,Unnamed Glacier in China,GL086131E28294N,28.295,86.132,5252.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,0
+189,1964.0,Gelhaip Co,Unnamed Glacier in China,GL087812E27965N,27.964,87.816,5266.0,28.008,87.687,4585.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Ice avalanche,Missing,0
+190,1964.0,Damenhai Co,Unnamed Glacier in China,GL093041E29868N,29.867675,93.04072,5230.0,29.936,93.152,3485.0,Moraine dammed,0,China,TAR,Gongbujiangda/Tangbulang (Nyang) ,Missing,Ice avalanche,Missing,1
+191,1965.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+192,1965.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+193,1965.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+194,1966.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+195,1966.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+196,1966.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+197,1966.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+198,1966.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+199,1966.0,Hailuogou,Hailuogou,GL077181E35675N,29.566,101.985,3100.0,31.45674792956606,87.28354125501943,3898.2077396373056,Moraine dammed,0,China,TAR,Yalong Tsangpo,Missing,Missing,Missing,1
+200,1966.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+201,1967.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+202,1968.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+203,1968.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+204,1968.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+205,1968.0,Aya Co,Unnamed Glacier in China,GL086494E28348N,28.346,86.49,5533.0,28.58541,86.58843,4330.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Ice avalanche,Missing,1
+206,1968.0,Tiptola (Olangchun Gola 2),Chhochenphu,GL087750E27816N,27.82,87.75,4909.0,27.693,87.761,3388.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Ice avalanche,Missing,1
+207,1968.0,Damenhai Co,Unnamed Glacier in China,GL093041E29868N,29.867675,93.04072,5230.0,29.936,93.151,3490.0,Moraine dammed,0,China,TAR,Nyang,Missing,Missing,Missing,1
+208,1968.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+209,1969.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+210,1969.0,Aya Co,Unnamed Glacier in China,GL086494E28348N,28.346,86.49,5533.0,28.58541,86.58843,4330.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Ice avalanche,Missing,1
+211,1969.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+212,1970.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+213,1970.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+214,1970.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+215,1970.0,Lake number 9,Glacier No. 151,GL077137E42998N,42.998,77.137,3500.0,43.26,77.213,1170.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Leviy Talgar,Missing,Missing,Missing,1
+216,1970.0,Aya Co,Unnamed Glacier in China,GL086494E28348N,28.346,86.49,5533.0,28.58541,86.58843,4330.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Ice avalanche,Missing,1
+217,1970.0,Qunbixiama Co,Unnamed Glacier in China,GL088921E27847N,27.847,88.921,4670.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Kangbuqu,Missing,Missing,Missing,0
+218,1970.0,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,27.654,88.858,4660.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Kangbuqu,Missing,Ice avalanche,Missing,0
+219,1970.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+220,1970.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+221,1971.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+222,1971.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+223,1971.0,Lake number 18,Glacier No. 151,GL077137E42998N,42.998,77.137,3500.0,43.26,77.213,1170.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Leviy Talgar,Missing,Missing,Missing,1
+224,1971.0,Unnamed Lake in India,Unnamed Glacier in India,GL077441E34317N,34.317,77.441,5145.0,34.195181,77.335314,3145.0,Moraine dammed,1,India,Ladakh,Indus,Missing,Missing,Missing,0
+225,1971.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+226,1972.0,Chateboi,Chateboi,Ephemeral,36.84573,73.89904,3680.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Glacier advance,Missing,Missing,1
+227,1972.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+228,1972.0,Poge Co,Unnamed Glacier in China,GL094725E31736N,31.74,94.73,4520.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,TAR,Suo/Xibaxiaqu ,Missing,Ice avalanche,Missing,0
+229,1972.0,Bugyai,Unnamed Glacier in China,GL094801E31772N,31.772396,94.80115,5200.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Nujiang,Missing,Missing,Missing,0
+230,1972.0,Batura,Batura,Ephemeral,36.510556,74.850591,2713.0,36.463266,74.901306,2450.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+231,1972.0,Unna,Unna,Ephemeral,36.039,74.633,3312.0,36.012126,74.541862,2276.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+232,1973.0,Abdukagor,Medvezhiy ,GL071728E37219N,38.631723,72.146101,3949.25,37.80266666666666,72.12566666666667,3240.0,Ice dammed,1,Tajikistan,Tajikistan,Vanch,Missing,Missing,Subglacial tunnel,1
+233,1973.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+234,1973.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+235,1973.0,Lake number 2 (Tuyuksu),Tuyuksu,GL077075E43064N,43.065,77.076,3374.0,43.147,77.062,1830.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kishi Almatinka,Missing,High temperatures; intense rainfall,Missing,1
+236,1973.0,Lake number 2 (Tuyuksu),Tuyuksu,GL077075E43064N,43.065,77.076,3374.0,43.147,77.062,1830.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kishi Almatinka,Missing,High temperatures; intense rainfall,Missing,1
+237,1973.0,Batura ,Batura ,Ephemeral,36.510556,74.850591,2713.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+238,1973.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Ice core thawing,1
+239,1973.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+240,1973.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+241,1973.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+242,1974.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+243,1974.0,Balt Bare,Balt Bare,Ephemeral,36.338551,74.931346,4244.0,36.363605,74.859477,2410.0,Landslide dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+244,1974.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+245,1974.0,Angy Say,No glacier,GL079841E42200N,41.997,77.152,3500.0,42.032215,77.05377,2340.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Tong,Missing,Missing,Missing,1
+246,1974.0,Boge Co,Unnamed Glacier in China,GL094304E32062N,32.061983,94.304445,5027.0,32.091566,94.319879,4690.0,Moraine dammed,0,China,TAR,Suo/Xibaxiaqu ,Missing,Missing,Missing,0
+247,1974.0,Dubani,Dubani,Ephemeral,35.93,74.609,4121.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+248,1974.0,Batura ,Batura ,Ephemeral,36.510556,74.850591,2713.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+249,1974.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+250,1974.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+251,1974.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+252,1975.0,North Terong,North Terong,Ephemeral,35.254,77.308,4400.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Kashmir,Nubra,Glacier advance,Missing,Missing,1
+253,1975.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+254,1975.0,Balt Bare,Balt Bare,Ephemeral,36.338551,74.931346,4244.0,36.363605,74.859477,2410.0,Landslide dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+255,1975.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+256,1975.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+257,1975.0,Sovetov,Sovetov,GL077043E43039N,43.039,77.044,3460.0,43.084,76.976,1939.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kumbelisu,Missing,Missing,Ice core thawing,1
+258,1975.0,Angy Say,No glacier,GL079841E42200N,41.997,77.152,3500.0,42.032215,77.05377,2340.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Tong,Missing,Missing,Missing,1
+259,1976.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+260,1976.0,Central Rimo,Central Rimo,GL077605E35421N,35.418,77.606,5100.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+261,1976.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+262,1976.0,Hailuogou,Hailuogou,GL077181E35675N,29.566,101.985,3100.0,31.45674792956606,87.28354125501943,3898.2077396373056,Moraine dammed,0,China,TAR,Yalong Tsangpo,Missing,Missing,Missing,1
+263,1977.0,Chateboi,Chateboi,Ephemeral,36.84573,73.89904,3680.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Glacier advance,Missing,Missing,1
+264,1977.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,31.737953293750003,87.12621108125,3902.60625,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+265,1977.0,Balt Bare,Balt Bare,Ephemeral,36.338551,74.931346,4244.0,36.363605,74.859477,2410.0,Landslide dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+266,1977.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+267,1977.0,Sovetov,Sovetov,GL077043E43039N,43.039,77.044,3460.0,43.084,76.976,1939.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kumbelisu,Missing,Missing,Ice core thawing,1
+268,1977.0,Lake number 17,Zharsai,Ephemeral,43.152,77.408,3380.0,43.234,77.462,1820.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Izzyk,Missing,Missing,Subglacial tunnel,1
+269,1977.0,Lake number 17,Zharsai,Ephemeral,43.152,77.408,3380.0,43.26598,77.48006000000001,1550.0,Supraglacial,0,Kazakhstan,Kazakhstan,Izzyk,Glacier melt,Missing,Missing,1
+270,1977.0,Nare ,Nare ,Ephemeral,27.828,86.839,4765.0,27.855,86.794,3905.0,Supraglacial,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Moraine collapse,0
+271,1978.0,Warghut,Unnamed Glacier in Pakistan,Ephemeral,36.746817,74.002922,3409.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+272,1978.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+273,1978.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,31.737953293750003,87.12621108125,3902.60625,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+274,1978.0,Central Rimo,Central Rimo,GL077605E35421N,35.418,77.606,5100.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+275,1978.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+276,1978.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+277,1978.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+278,1978.0,Hinarchi,Hinarchi,Ephemeral,36.042964,74.570562,2637.0,36.013842,74.543607,2281.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+279,1978.0,Darkot,Darkot/Barados,Ephemeral,36.769863,73.356628,4055.0,36.813,73.276,3330.0,Moraine dammed,1,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,0
+280,1979.0,Lake number 7,Sportivny,Ephemeral,43.163,77.324,3230.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Middle Talgar,Missing,Missing,Subglacial tunnel,0
+281,1980.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Surging glacier,Missing,Subglacial tunnel,1
+282,1980.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+283,1980.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+284,1980.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+285,1980.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,GL073423E36117N,36.119902,73.422475,4450.0,36.23,73.457,2132.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,0
+286,1980.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+287,1980.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+288,1980.0,Salyk,Salyk,Ephemeral,42.518,74.717,3390.0,42.561,74.663,2005.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+289,1980.0,Angy Say,No glacier,GL079841E42200N,41.997,77.152,3500.0,42.032215,77.05377,2340.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Tong,Missing,Missing,Missing,1
+290,1980.0,Angy Say,No glacier,GL079841E42200N,41.997,77.152,3500.0,42.032215,77.05377,2340.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Tong,Missing,Missing,Missing,1
+291,1980.0,Nagma Pokhari (Phuchan),Unnamed Glacier in Nepal,GL087866E27869N,27.869,87.867,4916.0,27.37613,87.62701,670.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Moraine collapse,0
+292,1980.0,Ghulkin ,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+293,1980.0,Glacier No 25,Glacier No 25,GL076601E42922N,42.923,76.602,3425.0,42.966514,76.61054,2430.0,Supraglacial,0,Kazakhstan,Kazakhstan,Kaskelen,Missing,High temperatures; intense rainfall,Missing,1
+294,1980.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+295,1980.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+296,1981.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+297,1981.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+298,1981.0,Cirenma Co,Zhangzangbo,GL086065E28067N,28.067,86.065,4644.0,27.973413,85.964012,1770.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Ice avalanche,Missing,1
+299,1981.0,Zari Co,Unnamed Glacier in China,GL092311E28908N,28.2995,90.6072,5350.0,28.37,90.638,4290.0,Moraine dammed,1,China,TAR,Luozha Zhangmu,Missing,Ice avalanche,Missing,0
+300,1981.0,Shaune Garang,Shaune Garang,Ephemeral,31.295,78.332,4578.0,31.86867561077236,79.36755386890243,2989.442073170732,Water pocket,0,India,Himachal Pradesh,Baspa,Missing,Missing,Missing,1
+301,1982.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+302,1982.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+303,1982.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+304,1982.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+305,1982.0,Jin Co/Yindapu Co,Unnamed Glacier in China,GL087909E27951N,27.951,87.908,5172.0,27.988,87.951,4886.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Ice avalanche,Dam piping,1
+306,1982.0,No 385,No 385,GL071728E37219N,38.5,72.5,3949.25,37.80266666666666,72.12566666666667,3240.0,Moraine dammed,1,Tajikistan,Tajikistan,Tanymas,Missing,Missing,Missing,0
+307,1982.0,Unna,Unna,Ephemeral,36.039,74.633,3312.0,36.012126,74.541862,2276.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+308,1982.0,Lake No 93,Tushinskogo,GL079932E45078N,45.07896,79.932532,3260.0,45.201,80.029,1490.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Sarykan,Missing,Missing,Missing,0
+309,1983.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+310,1983.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+311,1983.0,Cirenma Co,Zhangzangbo,GL086065E28067N,28.067,86.065,4644.0,27.973413,85.964012,1770.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,1
+312,1984.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+313,1984.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+314,1984.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+315,1985.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+316,1985.0,Fedchenko,Fedchenko,GL071728E37219N,39.074,72.312,3949.25,37.80266666666666,72.12566666666667,3240.0,Moraine dammed,1,Tajikistan,Tajikistan,Tajikistan,Missing,Missing,Missing,1
+317,1985.0,Bogatyr,Bogatyr,GL077325E43020N,43.02071957,77.32564979,3447.0,43.002055,77.421605,2855.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Shilik,Surging glacier,Missing,Missing,0
+318,1985.0,Dig Tsho,Langmoche,GL086586E27874N,27.874,86.594,4387.0,27.826144,86.664192,3534.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Ice avalanche,Missing,1
+319,1985.0,Unna,Unna,Ephemeral,36.039,74.633,3312.0,36.012126,74.541862,2276.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+320,1985.0,Suuk Tor,Unnamed Glacier in Kyrgyzstan,Ephemeral,41.9512,76.8538,3570.0,41.951,76.891,3240.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Missing,0
+321,1985.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,29.307,83.867,5982.0,29.297,83.949,4490.0,Water pocket,1,Nepal,Gandaki,Upper Mustang,Missing,Intense rainfall,Missing,0
+322,1986.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+323,1986.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+324,1986.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+325,1986.0,Glacier No 25,Glacier No 25,GL076601E42922N,42.923,76.602,3425.0,42.966514,76.61054,2430.0,Supraglacial,0,Kazakhstan,Kazakhstan,Kaskelen,Missing,Missing,Missing,1
+326,1986.0,Shimbuwa,Yalung,Ephemeral,27.585963,88.02714,4435.0,28.542063219607844,85.27488900130719,4166.418954248366,Supraglacial,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+327,1987.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+328,1988.0,Abdukagor,Medvezhiy ,GL071728E37219N,38.631723,72.146101,3949.25,37.80266666666666,72.12566666666667,3240.0,Ice dammed,1,Tajikistan,Tajikistan,Vanch,Missing,Missing,Subglacial tunnel,1
+329,1988.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+330,1988.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+331,1988.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+332,1988.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+333,1988.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,29.28812,83.86815,5365.0,29.231,83.974,3895.0,Moraine dammed,1,Nepal,Gandaki,Upper Mustang,Missing,Missing,Missing,0
+334,1988.0,Guangxie Co,Unnamed Glacier in China,GL096500E29469N,29.47,96.5,3816.0,29.488447,96.493776,3744.0,Moraine dammed,0,China,TAR,Bomi,Missing,Ice avalanche,Dam piping,0
+335,1988.0,Glacier No 25,Glacier No 25,GL076601E42922N,42.923,76.602,3425.0,42.966514,76.61054,2430.0,Supraglacial,0,Kazakhstan,Kazakhstan,Kaskelen,Missing,Missing,Missing,1
+336,1988.0,Shaune Garang,Shaune Garang,Ephemeral,31.295,78.332,4578.0,31.86867561077236,79.36755386890243,2989.442073170732,Water pocket,0,India,Himachal Pradesh,Baspa,Missing,Missing,Missing,1
+337,1989.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+338,1989.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+339,1990.0,Warghut,Unnamed Glacier in Pakistan,Ephemeral,36.746817,74.002922,3409.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Missing,Missing,1
+340,1990.0,North Terong,North Terong,Ephemeral,35.254,77.308,4400.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Kashmir,Nubra,Glacier advance,Missing,Missing,1
+341,1990.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+342,1990.0,Lokpar/Aling,Lokpar/Aling,Ephemeral,35.497,76.271,3720.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hushe,Missing,Rockfall,Missing,1
+343,1991.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+344,1991.0,Gebumaco,no glacier,Ephemeral,30.476389,96.556111,5030.0,30.466318,96.523587,3090.0,Moraine dammed,0,China,China,China,Missing,Upstream flood,Missing,0
+345,1991.0,Chubung,"Chubung, Ripimo Shar",Ephemeral,27.887,86.467,4660.0,27.877,86.449,4265.0,Supraglacial,1,Nepal,Bagmati,Tama Koshi,Missing,Missing,Moraine collapse,0
+346,1992.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+347,1992.0,Upper Langbu Co,Langbu Tsho,GL086446E27929N,27.929,86.447,5201.0,28.04068,86.32168,3290.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Ice avalanche,Missing,0
+348,1992.0,Rejie Co,Unnamed Glacier in China,GL088894E27966N,27.965,88.893,5435.0,27.972,88.961,5005.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+349,1992.0,Hinarchi,Hinarchi,Ephemeral,36.042964,74.570562,2637.0,36.013842,74.543607,2281.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+350,1992.0,Dubani,Dubani,Ephemeral,35.93,74.609,4121.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+351,1993.0,North Terong,North Terong,Ephemeral,35.254,77.308,4400.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Kashmir,Nubra,Glacier advance,Missing,Missing,1
+352,1993.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+353,1993.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,GL073193E36038N,36.0372,73.1932,4487.0,36.163,73.141,2458.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,0
+354,1993.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+355,1993.0,Topkaragay,Topkaragay,GL074519E42490N,42.488,74.523,3680.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+356,1993.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+357,1993.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+358,1993.0,Lokpar/Aling,Lokpar/Aling,Ephemeral,35.497,76.271,3720.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hushe,Missing,Missing,Missing,1
+359,1993.0,Lake number 8,Unnamed Glacier in Kazakhstan,Ephemeral,43.143,77.276,3385.0,43.237,77.259,1412.0,Supraglacial,0,Kazakhstan,Kazakhstan,Middle Talgar,Missing,Missing,Subglacial tunnel,1
+360,1994.0,Karambar ,Unnamed Glacier in Pakistan,GL074079E36622N,36.6214,74.07906,2935.0,36.09599818181818,73.80901454545454,2070.6363636363635,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+361,1994.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+362,1994.0,Sosot,Sosot,GL073196E36026N,36.027,73.196,4485.0,36.163,73.134,2474.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+363,1994.0,Zangla Co,Chemayungdung,GL082118E30355N,30.3556,82.1181,5302.0,30.404,82.14,5020.0,Moraine dammed,0,China,TAR,Maquan,Missing,Missing,Moraine collapse,0
+364,1994.0,Luggye Tsho,Unnamed Glacier in Bhutan,GL090299E28093N,28.092,90.299,4520.0,27.35,89.52,1220.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Landslide,Missing,0
+365,1995.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+366,1995.0,Zana Co,Unnamed Glacier in China,GL085371E28662N,28.662,85.371,5031.0,28.698,85.282,3880.0,Supraglacial,1,China,TAR,Gyirong,Missing,Ice avalanche,Missing,0
+367,1996.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+368,1996.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+369,1997.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+370,1997.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+371,1997.0,Kongyangmi La Tsho,Unnamed Glacier in India,GL088782E27901N,27.9,88.78,5113.0,27.909,88.717,4680.0,Moraine dammed,0,India,Sikkim,Changme,Missing,Ice avalanche,Missing,0
+372,1998.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+373,1998.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+374,1998.0,Sabai Tsho/ Tam Pokhari,Sabai ,GL086845E27743N,27.742,86.845,4381.0,26.55445,86.91352,80.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Ice avalanche,Missing,0
+375,1998.0,Gangri Tsho III,Unnamed Glacier in Bhutan,GL090816E27896N,27.897,90.813,4723.0,27.85414066666667,89.96726333333332,3829.733333333333,Moraine dammed,1,Bhutan,Bumthang,Chamkhar Chhu,Missing,Ice avalanche,Missing,0
+376,1998.0,Archa Bashi,Archa Bashi,GL079841E42200N,39.75,71.568,3828.0,39.9857,71.806644,1410.0,Supraglacial,0,Kyrgyzstan,Kyrgyzstan,Alauddin,Glacier melt,High temperatures,Missing,0
+377,1999.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+378,1999.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+379,1999.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+380,1999.0,Khalti,Unnamed Glacier in Pakistan,GL073359E36189N,36.188,73.359,4414.0,36.247,73.375,2231.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Intense rainfall,Missing,0
+381,1999.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+382,1999.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+383,2000.0,Chateboi,Chateboi,Ephemeral,36.84573,73.89904,3680.0,36.25575128013085,74.28681623205922,2357.9821625344352,Ice dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+384,2000.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.463012,74.901382,2450.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+385,2000.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+386,2000.0,North Terong,North Terong,Ephemeral,35.254,77.308,4400.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Kashmir,Nubra,Glacier advance,Missing,Missing,1
+387,2000.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+388,2000.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+389,2000.0,Lokpar/Aling,Lokpar/Aling,Ephemeral,35.497,76.271,3800.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hushe,Missing,Missing,Missing,1
+390,2001.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+391,2001.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+392,2001.0,Chongbaxia Co/ Longjiu Co,Unnamed Glacier in China,GL089745E28211N,28.211108,89.744989,4916.0,28.257,89.627,4576.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+393,2002.0,Hassanabad,Hassanabad,Ephemeral,36.390545,74.50831,3370.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Missing,1
+394,2002.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3482.0,36.36508104166666,74.96709620833333,2550.5833333333335,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+395,2002.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+396,2002.0,North Terong,North Terong,Ephemeral,35.254,77.308,4400.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Kashmir,Nubra,Glacier advance,Missing,Missing,1
+397,2002.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+398,2002.0,Shahdara,Dasht,GL071728E37219N,37.22,71.729,4346.0,37.3,71.783,2600.0,Moraine dammed,0,Tajikistan,Gorno-Badakhshan,Shakhdara,Missing,Missing,Missing,0
+399,2002.0,Jialong Co,Jialong,GL085849E28212N,28.213134,85.850819,4369.0,28.19297,85.92412,4075.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Ice avalanche,Missing,1
+400,2002.0,Jialong Co,Jialong,GL085849E28212N,28.213134,85.850819,4369.0,28.19297,85.92412,4075.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Moraine collapse,1
+401,2002.0,Unnamed Lake in China,Unnamed Glacier in China,GL085919E28139N,28.14,85.92,4870.0,28.154774,85.920192,4560.0,Moraine dammed,1,China,TAR,Nyalam,Missing,Missing,Missing,0
+402,2002.0,Dega Co,Unnamed Glacier in China,GL090621E28453N,28.453,90.621,5280.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,1,China,TAR,Luozhaxiongqu,Missing,Ice avalanche,Missing,0
+403,2003.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+404,2003.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,Ephemeral,36.608,73.881,3706.0,36.09599818181818,73.80901454545454,2070.6363636363635,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Indus,Missing,Missing,Missing,0
+405,2003.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+406,2003.0,Gongpa-Rangchong,Gongpa-Rangchong,GL076963E34467N,34.467,76.963,5117.0,34.392738,76.758152,2928.0,Moraine dammed,1,India,Ladakh,Indus,Missing,Missing,Missing,0
+407,2004.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+408,2004.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+409,2005.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+410,2005.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+411,2005.0,Sosot,Sosot,GL073196E36026N,36.027,73.196,4485.0,36.163,73.134,2474.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+412,2005.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,High temperatures,Missing,1
+413,2005.0,Dalonggongba,Unnamed Glacier in China,GL096466E29753N,29.752955,96.465935,5059.0,29.766,96.426,4335.0,Moraine dammed,0,China,TAR,Bomi,Missing,Missing,Missing,0
+414,2005.0,Brep,Brep,Ephemeral,36.384,72.706,4330.0,36.423,72.647,2440.0,Water pocket,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Missing,Missing,Missing,0
+415,2005.0,Unnamed Lake in China,Unnamed Glacier in China,Ephemeral,29.44416667,97.43722222,4818.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+416,2006.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+417,2006.0,Kashka-Suu,Kashka-Suu,GL079841E42200N,41.85897,76.99497,3872.0,41.866,77.043,3018.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Subglacial tunnel,0
+418,2006.0,Phyang,Phyang,No lake,34.283109,77.565699,5350.0,31.86867561077236,79.36755386890243,2989.442073170732,Moraine dammed,1,India,Ladakh,Indus,Missing,Missing,Ice core thawing,0
+419,2006.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+420,2007.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+421,2007.0,Lang Co,Unnamed Glacier in China,GL091807E27828N,27.828,91.807,4294.0,27.821,91.755,2437.0,Moraine dammed,1,China,TAR,Yarlung Tsangpo,Missing,Missing,Missing,0
+422,2007.0,Ghulkin,Ghulkin,Ephemeral,36.420236,74.858404,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,1
+423,2007.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+424,2007.0,Sonoghore,Sonoghore,Ephemeral,36.226,72.416,3779.0,36.27,72.402,2260.0,Water pocket,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Missing,Missing,Missing,0
+425,2008.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+426,2008.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+427,2008.0,Passu,Passu,GL074879E36458N,36.457073,74.879432,2562.0,36.25575128013085,74.28681623205922,2357.9821625344352,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,0
+428,2008.0,Western Zyndan,Western Zyndan,GL077029E41947N,41.9478,77.0299,3645.0,42.064877,76.9957,2020.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Zymdan,Missing,Missing,Ice core thawing,0
+429,2008.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,1
+430,2008.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,1
+431,2008.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,1
+432,2008.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,High temperatures,Missing,1
+433,2008.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+434,2009.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+435,2009.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+436,2009.0,Zhemai Co,Unnamed Glacier in China,GL092343E28015N,28.015,92.343,5300.0,28.032,92.348,4880.0,Moraine dammed,0,China,TAR,Cona,Missing,Missing,Missing,0
+437,2009.0,Cuoga,Unnamed Glacier in China,GL094001E30829N,30.83,94.0,4737.0,30.692,93.963,3990.0,Moraine dammed,0,China,TAR,Bianba,Missing,Ice avalanche,Missing,0
+438,2009.0,Hinarchi,Hinarchi,Ephemeral,36.042964,74.570562,2637.0,36.013842,74.543607,2281.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+439,2009.0,Ghulkin,Ghulkin ,Ephemeral,36.420236,74.879432,2692.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Hunza,Missing,Intense rainfall,Missing,1
+440,2009.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+441,2009.0,Tshojo Tsho,Tshojo ,Ephemeral,28.055,90.146,4040.0,28.05,90.14,3898.0,Supraglacial,1,Bhutan,Punakha,Pho Chhu ,Missing,Missing,Ice core thawing,0
+442,2010.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+443,2010.0,Kuturgansuu,Kuturgansuu,Ephemeral,42.522,74.609,3470.0,42.535,74.658,2170.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Alamedin,Missing,Missing,Missing,1
+444,2010.0,Chorog,Unnamed Glacier in India,GL078485E33033N,33.033,78.484,5766.0,33.193,78.61,4151.0,Moraine dammed,1,India,Ladakh,Upper Indus,Missing,High temperatures,Missing,0
+445,2010.0,Geiqu,Unnamed Glacier in China,GL087985E27952N,27.951215,87.98544,5492.0,28.002,87.952,4845.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Intense rainfall,Missing,0
+446,2010.0,Hundur,Hundur,Ephemeral,36.546,73.353,4000.0,36.515414,73.420923,2495.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Yasin,Missing,Missing,Missing,0
+447,2010.0,Hinarchi,Hinarchi,Ephemeral,36.042964,74.570562,2637.0,36.013842,74.543607,2281.0,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+448,2010.0,Dubani,Dubani,Ephemeral,35.93,74.609,4121.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+449,2010.0,Bindo Gol,Bindo,Ephemeral,36.174,71.898,4572.0,36.151,71.939,3263.0,Moraine dammed,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Missing,Missing,Missing,1
+450,2010.0,Unna,Unna,Ephemeral,36.039,74.633,3312.0,36.012126,74.541862,2276.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+451,2010.0,Booni Gol,Booni Gol,No lake,36.194,72.3,3514.0,36.268,72.238,1990.0,Water pocket,1,Pakistan,Chitral,Chitral,Missing,Missing,Missing,0
+452,2011.0,Central Rimo,Central Rimo,GL077605E35421N,35.418,77.606,5100.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+453,2011.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+454,2011.0,Halji,Halji,Ephemeral,30.27,81.475,5347.0,30.219,81.514,3706.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,1
+455,2012.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+456,2012.0,Sosot,Sosot,GL073196E36026N,36.027,73.196,4485.0,36.163,73.134,2474.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Gilgit,Missing,Missing,Missing,1
+457,2012.0,Teztor,Teztor,GL079841E42200N,42.5366,74.4273,3606.0,42.58,74.481,2015.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,High temperatures,Missing,1
+458,2013.0,Central Rimo,Central Rimo,GL077605E35421N,35.418,77.606,5100.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+459,2013.0,Gandukh,Gandukh,GL071128E36474N,36.474746,71.128953,4593.0,36.428243,71.293178,2800.0,Moraine dammed,1,Afghanistan,Badakhshan,Sanglich,Glacier melt,Water level rise,Moraine collapse,0
+460,2013.0,Jeruy,Unnamed Glacier in Kyrgyzstan,GL079841E42200N,41.9871,76.8145,3815.0,42.079135,76.863884,1973.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Subglacial tunnel,0
+461,2013.0,Chorabari,Chorabari,No lake,30.747,79.064,3841.0,30.732,79.066,3520.0,Moraine dammed,0,India,Uttarakhand,Alaknanda,Glacier melt,Intense rainfall,Moraine collapse,0
+462,2013.0,Ranzeria Co,Unnamed Glacier in China,GL093533E30470N,30.469308,93.53215,5020.0,30.424,93.505,4498.0,Moraine dammed,0,China,TAR,Bianba,Missing,Missing,Missing,0
+463,2014.0,Central Rimo,Central Rimo,GL077605E35421N,35.418,77.606,5100.0,31.86867561077236,79.36755386890243,2989.442073170732,Ice dammed,1,India,Ladakh,Shyok,Surging glacier,Missing,Missing,1
+464,2014.0,Karateke,Solnechnyi,GL076820E41978N,41.978,76.821,3758.0,42.034302,76.892969,2289.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Missing,0
+465,2014.0,Gya,Unnamed Glacier in India,Ephemeral,33.620431,77.613127,5411.0,33.653,77.739,4075.0,Moraine dammed,1,India,Ladakh,Upper Indus,Missing,Missing,Ice core thawing,0
+466,2014.0,Nalongzangbu Tributary,Nalongzangbu Tributary,Ephemeral,30.530106,94.944612,3870.0,30.504907,94.94174,3460.0,Moraine dammed,0,China,TAR,China,Missing,Ice avalanche,Missing,0
+467,2014.0,Gargoh,Gargoh,Ephemeral,35.997077,74.665676,3887.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+468,2014.0,Lake number 6,Glacier No 182/Bezymyannyi/TEU-Severny,Ephemeral,43.144,77.277,3380.0,43.156500739130436,77.08971586956521,2000.7391304347825,Supraglacial,0,Kazakhstan,Kazakhstan,Srednii Talgar,Missing,Missing,Missing,1
+469,2014.0,Lake number 8,Unnamed Glacier in Kazakhstan,Ephemeral,43.143,77.276,3385.0,43.237,77.259,1412.0,Supraglacial,0,Kazakhstan,Kazakhstan,Middle Talgar,Missing,Missing,Subglacial tunnel,1
+470,2015.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+471,2015.0,Merzbacher,Southern Inylshek,GL079841E42200N,42.196,79.847,3271.0,42.46940061764706,74.87776640392157,2214.0254901960784,Ice dammed,0,Kyrgyzstan,Kyrgyzstan,Inylchek,Missing,Missing,Subglacial tunnel,1
+472,2015.0,Dig Tsho,Langmoche,GL086586E27874N,27.874,86.594,4387.0,27.826144,86.664192,3534.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Ice avalanche,Missing,1
+473,2015.0,Jin Co/Yindapu Co,Unnamed Glacier in China,GL087909E27951N,27.951,87.908,5172.0,27.988,87.951,4886.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Missing,Missing,1
+474,2015.0,Gargoh,Gargoh,Ephemeral,35.997077,74.665676,3887.0,36.25575128013085,74.28681623205922,2357.9821625344352,Supraglacial,0,Pakistan,Gilgit - Baltistan,Bagrot,Missing,Missing,Missing,1
+475,2015.0,Lake number 1,Kargalinka,Ephemeral,43.0067,76.8477,3523.0,43.137,76.865,1350.0,Supraglacial,0,Kazakhstan,Kazakhstan,Kargaly,Missing,High temperatures,Subglacial tunnel,1
+476,2015.0,Lhotse,Lhotse,Ephemeral,27.906,86.891,4978.0,27.90054,86.86313,4630.0,Supraglacial,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Supraglacial lake drainage,1
+477,2015.0,Lemthang Tsho ,Unnamed Glacier in Bhutan,GL089581E28069N,28.069,89.58,4263.0,28.004,89.735,3265.0,Supraglacial,1,Bhutan,Punakha,Mo Chhu ,Missing,Intense rainfall,Missing,0
+478,2015.0,Tulaco,Unnamed Glacier in China,Ephemeral,30.736667,94.253056,5040.0,30.707339,94.261859,3970.0,Supraglacial,0,China,TAR,China,Missing,Missing,Dam piping,0
+479,2015.0,Bindo Gol,Bindo,Ephemeral,36.174,71.898,4572.0,36.151,71.939,3263.0,Moraine dammed,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Missing,Intense rainfall; high temperatures,Missing,1
+480,2015.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,No lake,36.22,71.775,4068.0,36.192,71.672,2530.0,Water pocket,1,Pakistan,Khyber Pakhtunkhwa,Arkary,Missing,Missing,Missing,0
+481,2015.0,Aksay,Aksay,GL079841E42200N,42.528,74.5405,3637.0,42.552627,74.483331,2255.0,Water pocket,0,Kyrgyzstan,Kyrgyzstan,Ala Archa,Missing,Missing,Missing,1
+482,2015.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.75944444,86.92222222,5306.0,27.753316,86.936792,4734.0,Moraine dammed,0,Nepal,Province No. 1,Dudh Koshi,Missing,Missing,Missing,0
+483,2016.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+484,2016.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+485,2016.0,Gongbatongsha Co,Unnamed Glacier in China,GL086064E28078N,28.078,86.064,4624.0,27.91265,85.9234,1340.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Intense rainfall,Missing,0
+486,2016.0,Lhotse,Lhotse,Ephemeral,27.906,86.891,4978.0,27.90054,86.86313,4630.0,Supraglacial,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Supraglacial lake drainage,1
+487,2017.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3223.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+488,2017.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+489,2017.0,Chelektor,Unnamed Glacier in Kyrgyzstan,GL079841E42200N,42.4,74.7,3837.0,42.4131615,76.54545033333333,2787.1666666666665,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Nooruz,Missing,Missing,Overtopping,0
+490,2017.0,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,34.588,76.733,5120.0,34.504,76.63,2835.0,Moraine dammed,1,India,Ladakh,Indus,Missing,Missing,Missing,0
+491,2017.0,Langmale ,Barun ,GL087138E27812N,27.814,87.141,5026.0,27.72654,87.22062,3130.0,Moraine dammed,1,Nepal,Koshi,Arun,Missing,Rockfall,Missing,0
+492,2017.0,Changri Shar,Changri Shar,Ephemeral,27.981275,86.818062,5200.0,27.889,86.819,4248.0,Supraglacial,1,Nepal,Koshi,Dudh Koshi,Glacier melt,Water level rise; water temperature rise,Englacial tunnel,0
+493,2017.0,Unnamed Lake in China,Unnamed Glacier in China,GL098004E28718N ,28.7169,98.0036,4657.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,TAR,China,Missing,Missing,Moraine collapse,0
+494,2018.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3223.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+495,2018.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3223.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+496,2018.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+497,2018.0,Pishkandah ,Pishkandah,Ephemeral,35.471115,69.624574,4495.0,35.396,69.694,2109.0,Moraine dammed,0,Afghanistan,Panjshir,Panjshir,Glacier melt,Water level rise,Ice core thawing,0
+498,2018.0,Unnamed Lake in China,Unnamed Glacier in China,GL086321E28245N,28.244,86.321,5390.0,28.219,86.283,4850.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Intense rainfall,Missing,0
+499,2018.0,Badswat ,Unnamed Glacier in Pakistan,Ephemeral,36.505,74.06,4024.0,36.538,74.018,2570.0,Water pocket,0,Pakistan,Gilgit - Baltistan,Ishkoman,Missing,Intense rainfall,Subglacial tunnel,0
+500,2018.0,Dagongba,Unnamed Glacier in China,GL077181E35675N,29.581,101.804,4104.0,31.737953293750003,87.12621108125,3902.60625,Moraine dammed,0,China,Sichuan,Yangtze,Missing,Missing,Permafrost thaw,0
+501,2019.0,Shisper ,Hassanabad I,Ephemeral,36.35594,74.572267,2605.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,High temperatures,Subglacial tunnel,1
+502,2019.0,Kyagar,Unnamed Glacier in China,GL077181E35675N,35.677371,77.190788,4880.0,37.982034,76.877846,1450.0,Ice dammed,0,China,Xinjiang,Yarkant,Surging glacier,Missing,Missing,1
+503,2019.0,Toguz-Bulak,Toguz-Bulak,GL077267E41978N,41.977646,77.266932,3764.0,42.46940061764706,74.87776640392157,2214.0254901960784,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Toguzbulak,Missing,Missing,Ice core thawing,0
+504,2019.0,Thorthormi,Thorthormi,GL090263E28106N,28.106,90.263,4451.0,28.085,90.206,4126.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Glacier melt,"Ice avalanche, water level rise",Moraine collapse,0
+505,2019.0,Rogheli,Rogheli,Ephemeral,35.853,71.968,4490.0,35.938,71.98,1950.0,Supraglacial,1,Pakistan,Khyber Pakhtunkhwa,Chitral ,Missing,Intense rainfall; high temperatures,Supraglacial lake drainage,1
+506,2019.0,Lake number 1,Kargalinka,Ephemeral,43.0067,76.8477,3523.0,43.137,76.865,1350.0,Supraglacial,0,Kazakhstan,Kazakhstan,Kargaly,Missing,High temperatures,Subglacial tunnel,1
+507,2020.0,Shisper ,Hassanabad I,Ephemeral,36.35594,74.572267,2605.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,High temperatures,Subglacial tunnel,1
+508,2020.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL081664E30164N,30.164,81.665,4907.0,30.163,81.681,4592.0,Moraine dammed,1,Nepal,Karnali,Humla,Missing,Missing,Missing,0
+509,2020.0,Jinwuco,Jinwu ,GL093631E30357N,30.356,93.631,4447.0,31.45674792956606,87.28354125501943,3898.2077396373056,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,High temperatures; intense rainfall; landslide,Missing,0
+510,2020.0,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,30.421,94.53,3960.0,30.307,94.622,2540.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+511,2020.0,Rogheli,Rogheli,Ephemeral,35.853,71.968,4490.0,35.938,71.98,1950.0,Supraglacial,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Missing,Intense rainfall; high temperatures,Supraglacial lake drainage,1
+512,2020.0,Yarkhun,Yarkhun,Ephemeral,36.85265,73.02295,4937.0,36.797274,73.034496,3170.0,Moraine dammed,1,Pakistan,Khyber Pakhtunkhwa,Chitral,Glacier melt,Missing,Missing,0
+513,2021.0,Shisper ,Hassanabad I,Ephemeral,36.35594,74.572267,2605.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,High temperatures,Subglacial tunnel,1
+514,2021.0,Khurdopin ,Khurdopin ,Ephemeral,36.344239,75.474953,3223.0,36.439939,75.311226,3062.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,Missing,Subglacial tunnel,1
+515,2021.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,Ephemeral,36.326525,73.685255,4475.0,36.31052,73.63792,2646.0,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Ghizer,Missing,Missing,Supraglacial lake drainage,0
+516,2021.0,Rumbak,Unnamed Glacier in India,Ephemeral,33.999709,77.422315,5254.0,34.07,77.418,3726.0,Moraine dammed,1,India,Ladakh,Upper Indus,Missing,Missing,Missing,0
+517,2021.0,Pemdang Pokhari,Unnamed Glacier in Nepal,GL085514E28131N,28.131,85.515,4774.0,28.105,85.544,3648.0,Moraine dammed,1,Nepal,Bagmati,Melamchi,Missing,Intense rainfall,Missing,0
+518,2021.0,Bam Tanab ,Bam Tanab ,Ephemeral,35.46015,69.63869,4416.0,35.396,69.694,2109.0,Supraglacial,0,Afghanistan,Panjshir,Panjshir,Glacier melt,Water level rise,Englacial tunnel,0
+519,2022.0,Shisper ,Hassanabad I,Ephemeral,36.35594,74.572267,2605.0,36.292162,74.609227,2030.0,Ice dammed,0,Pakistan,Gilgit - Baltistan,Hunza,Surging glacier,High temperatures,Subglacial tunnel,1
+520,2023.0,South Lonak,Unnamed Glacier in India,Ephemeral,27.9121,88.1926,5228.0,27.24227,88.477092,370.0,Moraine dammed,0,India,Sikkim,Teesta,Glacier melt,"Intense rainfall, permafrost thaw","Landslide, Moraine failure",0
+521,2023.0,Thorthormi,Thorthormi,GL090263E28106N,28.106,90.263,4451.0,28.085,90.206,4126.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Glacier melt,Ice avalanche,Moraine collapse,0
+522,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL082034E31103N,31.10278,82.034073,5700.0,31.124,82.047,5363.0,Bedrock,0,China,TAR,China,Missing,Missing,Missing,0
+523,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL083026E30840N,30.840737,83.026153,5846.0,30.834,83.026,5680.0,Bedrock,0,China,TAR,China,Missing,Missing,Missing,0
+524,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.207733,89.598351,5201.0,29.188,89.609,4540.0,Bedrock,0,China,TAR,China,Missing,Missing,Missing,0
+525,1980.7894736842106,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL090254E27813N,27.813168,90.254283,4827.0,27.81079,90.2478,4785.0,Bedrock,1,Bhutan,Wangduephodrang,Mangde Chhu,Missing,Missing,Missing,0
+526,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL096869E29738N,29.737813,96.871129,5202.0,29.74,96.877,5080.0,Bedrock,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+527,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL096948E29729N,29.728628,96.947644,5301.0,29.725,96.951,5235.0,Bedrock,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+528,1954.4,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,GL072121E35828N,35.827314,72.122001,3669.0,36.09599818181818,73.80901454545454,2070.6363636363635,Moraine dammed,1,Pakistan,Gilgit - Baltistan,Upper Indus,Missing,Missing,Missing,0
+529,1969.2222222222222,Unnamed Lake in Tajikistan,Unnamed Glacier in Tajikistan,GL072206E38403N,38.403423,72.206434,4188.0,38.407,72.197,3920.0,Moraine dammed,0,Tajikistan,Gorno-Badakhshan,Pyanj,Missing,Missing,Missing,0
+530,1969.2222222222222,Unnamed Lake in Tajikistan,Unnamed Glacier in Tajikistan,GL071728E37219N,37.637415,72.361715,4643.0,37.701,72.397,3200.0,Moraine dammed,0,Tajikistan,Gorno-Badakhshan,Shugnan,Missing,Missing,Missing,0
+531,2017.3333333333333,Unnamed Lake in Afghanistan,Unnamed Glacier in Afghanistan,GL073205E35652N,35.652003,73.204706,3705.0,35.639,73.217,3325.0,Moraine dammed,0,Afghanistan,Kunar,Kunar,Missing,Missing,Missing,0
+532,2003.0,Unnamed Lake in Pakistan,Unnamed Glacier in Pakistan,Ephemeral,36.61,73.9,3785.0,36.09599818181818,73.80901454545454,2070.6363636363635,Moraine dammed,0,Pakistan,Gilgit - Baltistan,Indus,Missing,Missing,Missing,0
+533,1969.357142857143,Unnamed Lake in Kyrgyzstan,Unnamed Glacier in Kyrgyzstan,GL075034E42517N,42.521665,75.033408,3536.0,42.621,75.038,1472.0,Moraine dammed,1,Kyrgyzstan,Kyrgyzstan,Syn Tash,Missing,Missing,Missing,0
+534,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,33.81142,76.389706,4965.0,33.83,76.414,4044.0,Moraine dammed,0,India,Ladakh,Zanskar,Missing,Missing,Missing,0
+535,1979.6666666666667,Unnamed Lake in Kazakhstan,Unnamed Glacier in Kazakhstan,GL076738E42925N,42.92508,76.73848,3722.0,42.925,76.734,3660.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kazakhstan,Missing,Missing,Missing,0
+536,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,33.020461,76.742032,5000.0,33.01,76.695,3828.0,Moraine dammed,0,India,Ladakh,Chenab,Missing,Missing,Missing,0
+537,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL076744E32211N,32.210397,76.744014,4120.0,32.215,76.738,3875.0,Moraine dammed,0,India,Ladakh,Chenab,Missing,Missing,Missing,0
+538,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,No lake,32.538097,76.748413,4457.0,32.516,76.757,3543.0,Moraine dammed,0,India,Ladakh,Chenab,Missing,Missing,Missing,0
+539,1969.357142857143,Unnamed Lake in Kyrgyzstan,Unnamed Glacier in Kyrgyzstan,GL076767E42944N,42.944737,76.767841,3791.0,42.929,76.785,3489.0,Moraine dammed,1,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Missing,0
+540,1969.357142857143,Unnamed Lake in Kyrgyzstan,Unnamed Glacier in Kyrgyzstan,GL076771E42943N,42.943674,76.771749,3746.0,42.929,76.785,3489.0,Moraine dammed,1,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Missing,0
+541,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL076822E32222N,32.223025,76.822475,4183.0,32.279,76.838,3142.0,Moraine dammed,0,India,Ladakh,Chenab,Missing,Missing,Missing,0
+542,1969.357142857143,Unnamed Lake in Kyrgyzstan,Unnamed Glacier in Kyrgyzstan,Ephemeral,41.943,76.902,3550.0,41.969834,76.909818,3060.0,Moraine dammed,0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,Missing,Missing,Missing,0
+543,1979.6666666666667,Unnamed Lake in Kazakhstan,Unnamed Glacier in Kazakhstan,GL077479E43108N,43.108803,77.47998,3414.0,43.112,77.482,3360.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kazakhstan,Missing,Missing,Missing,0
+544,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,31.748786,78.116984,4959.0,31.744,78.12,4666.0,Moraine dammed,0,India,Ladakh,Sutlej,Missing,Missing,Missing,0
+545,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL078333E33956N,33.956301,78.333376,5448.0,33.969974,78.379429,4300.0,Moraine dammed,0,India,Ladakh,Indus,Missing,Missing,Missing,0
+546,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,33.12619,78.412649,5597.0,30.625491041666667,82.706365625,4076.125,Moraine dammed,1,India,Ladakh,Upper Indus,Missing,Missing,Missing,0
+547,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL079164E31187N,31.186,79.166,5473.0,31.173,79.193,4580.0,Moraine dammed,0,China,TAR,Bhagirathi,Missing,Missing,Missing,0
+548,1979.6666666666667,Unnamed Lake in Kazakhstan,Unnamed Glacier in Kazakhstan,GL080152E42353N,42.353622,80.153057,3731.0,42.369,80.153,3460.0,Moraine dammed,0,Kazakhstan,Kazakhstan,Kazakhstan,Missing,Missing,Missing,0
+549,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL080611E44560N,44.560848,80.611643,3423.0,44.567,80.672,2558.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+550,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL080628E30357N,30.357,80.628,4835.0,30.356,80.648,4508.0,Moraine dammed,1,India,Uttarakhand,Dhauliganga,Missing,Missing,Missing,0
+551,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL080986E42576N,42.576698,80.986319,3668.0,42.58,81.025,3060.0,Moraine dammed,0,China,China,China,Missing,Missing,Missing,0
+552,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,42.463802,81.011925,3694.0,42.471,81.02,3464.0,Moraine dammed,0,China,China,China,Missing,Missing,Missing,0
+553,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,30.159,81.034,4655.0,30.157,81.03,4547.0,Moraine dammed,1,Nepal,Karnali,Dhauliganga,Missing,Missing,Missing,0
+554,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,30.03,81.295,5136.0,30.02,81.289,4748.0,Moraine dammed,1,Nepal,Karnali,West Seti,Missing,Missing,Missing,0
+555,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL081332E42664N,42.664,81.33,3380.0,42.672,81.349,3040.0,Moraine dammed,0,China,China,China,Missing,Missing,Missing,0
+556,1976.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL081578E29898N,29.897,81.578,3581.0,29.895,81.616,3518.0,Moraine dammed,1,Nepal,Karnali,Humla,Missing,Missing,Missing,0
+557,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL082044E29994N,29.994,82.044,4716.0,30.0,81.992,3256.0,Moraine dammed,1,Nepal,Karnali,Humla,Missing,Missing,Missing,0
+558,2015.0,Zangla Co East,Unnamed Glacier in China,GL082199E30310N,30.31,82.2,5534.0,30.359,82.26,4995.0,Moraine dammed,1,China,TAR,Maquan,Missing,Missing,Missing,0
+559,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,29.875,82.451,5285.0,29.874,82.447,5200.0,Moraine dammed,1,Nepal,Karnali,Humla,Missing,Missing,Missing,0
+560,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,No lake,28.816,83.12,5139.0,28.821,83.136,4633.0,Moraine dammed,1,Nepal,Karnali,Bheri,Missing,Missing,Missing,0
+561,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL083234E29647N,29.646926,83.233898,5564.0,29.707,83.259,4728.0,Moraine dammed,0,China,TAR,Maquan,Missing,Missing,Missing,0
+562,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL083356E44121N,44.120257,83.357924,3276.0,44.148,83.361,2790.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+563,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL083521E29359N,29.359,83.521,5641.0,29.377,83.548,5150.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+564,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL083744E29198N,29.198,83.744,5806.0,29.177,83.756,5380.0,Moraine dammed,1,Nepal,Gandaki,Kali Gandaki,Missing,Missing,Missing,0
+565,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL083997E28745N,28.744,83.997,4911.0,28.74,83.987,4529.0,Moraine dammed,1,Nepal,Gandaki,Marsyangdi,Missing,Missing,Missing,0
+566,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL084491E43776N,43.7764,84.4922,3264.0,43.834,84.466,2220.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+567,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL084503E29972N,29.972678,84.503318,5721.0,29.974,84.513,5450.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+568,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.851044,84.625718,5755.0,29.856,84.632,5551.0,Moraine dammed,0,China,TAR,Yarlung Zangbo,Missing,Missing,Missing,0
+569,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL084876E29976N,29.976913,84.876052,5946.0,29.971,84.879,5755.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+570,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085101E43368N,43.368026,85.101912,3248.0,43.363,85.145,2995.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+571,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,28.688,85.102,5138.0,28.689,85.097,4995.0,Moraine dammed,1,China,TAR,Budhi Gandaki,Missing,Missing,Missing,0
+572,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,No lake,28.689,85.105,5168.0,28.691,85.102,5078.0,Moraine dammed,1,China,TAR,Budhi Gandaki,Missing,Missing,Missing,0
+573,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085186E43653N,43.652636,85.186456,3780.0,43.655,85.206,3220.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+574,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085424E28553N,28.553,85.424,4701.0,28.534,85.408,4245.0,Moraine dammed,1,China,TAR,Gyirong,Missing,Missing,Missing,0
+575,1995.0,Zhalonggabu,Zhalonggabu,GL077181E35675N,28.662,85.476,5204.0,28.703,85.553,4743.0,Moraine dammed,0,China,TAR,Gyirong,Missing,Ice avalanche,Missing,0
+576,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085522E28504N,28.504,85.522,5249.0,28.493,85.533,4774.0,Moraine dammed,1,China,TAR,Gyirong,Missing,Missing,Missing,0
+577,1980.2242990654206,Guoluo,Guoluo,GL085635E28496N,28.501,85.644,5284.0,28.53,85.66,5222.0,Moraine dammed,0,China,TAR,Pelkhu,Missing,Debris flow,Missing,0
+578,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085643E29692N,29.691925,85.643267,5526.0,29.692,85.639,5490.0,Moraine dammed,0,China,TAR,Dogxung Zangbo,Missing,Missing,Missing,0
+579,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085866E28168N,28.1681,85.8659,4692.0,28.176,85.894,4337.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,0
+580,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085871E28195N,28.1947,85.8716,4624.0,28.203,85.886,4156.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,0
+581,2002.0,Dareco South,Unnamed Glacier in China,GL085919E28139N,28.138056,85.918889,4858.0,28.165,85.923,4385.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Ice avalanche,Missing,0
+582,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL085930E28321N,28.3215,85.9306,5308.0,28.328,85.933,5230.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,0
+583,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086170E28178N,28.1784,86.1704,5106.0,28.112,86.171,3731.0,Moraine dammed,1,China,TAR,Poiqu,Missing,Missing,Missing,0
+584,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.310786,86.337927,5777.0,29.313,86.339,5670.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+585,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086387E29314N,29.314238,86.387598,5639.0,29.297,86.409,5380.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+586,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086417E27950N,27.9498,86.4174,4989.0,28.04332,86.3108,3277.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+587,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086422E27932N,27.9319,86.4225,4987.0,28.04068,86.32168,3290.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+588,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086433E27939N,27.9384,86.4324,5051.0,28.04068,86.32168,3290.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+589,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086434E27929N,27.93,86.4335,5031.0,28.04068,86.32168,3290.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+590,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086456E28064N,28.064,86.4559,5216.0,28.059,86.452,5111.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+591,1980.2242990654206,Yanong,Yanong,GL086548E28133N,28.1332,86.5481,5251.0,28.128,86.546,5100.0,Moraine dammed,1,China,TAR,Rongxia,Missing,Missing,Missing,0
+592,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL086590E27781N,27.7812,86.5898,5065.0,27.779,86.592,4978.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+593,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL086745E27921N,27.9205,86.7452,4883.0,27.91,86.721,4304.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+594,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL086778E27952N,27.9518,86.7779,5012.0,27.95,86.774,4926.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+595,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL086816E43186N,43.185982,86.816313,3652.0,43.194,86.82,3485.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+596,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.737,86.8722,4733.0,27.737,86.869,4650.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+597,1978.6333333333334,Chokarma Tsho,Unnamed Glacier in Nepal,GL086922E27899N,27.905695,86.912203,5016.0,28.5880902,85.19796306666667,4460.366666666667,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Moraine collapse,0
+598,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.754,86.9438,4943.0,27.758,86.938,4778.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+599,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,No lake,27.8101,86.9568,5541.0,27.801,86.945,5088.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+600,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL086966E27799N,27.799,86.966,5400.0,27.766,86.938,4820.0,Moraine dammed,1,Nepal,Koshi,Dudh Koshi,Missing,Missing,Missing,0
+601,1978.6333333333334,Barun ,Barun ,GL087082E27845N,27.843,87.081,4847.0,27.804,87.082,4674.0,Moraine dammed,1,Nepal,Koshi,Arun,Missing,Missing,Moraine collapse,0
+602,1978.6333333333334,Barun ,Barun ,GL087095E27829N,27.829,87.094807,4847.0,27.804,87.082,4674.0,Moraine dammed,1,Nepal,Koshi,Arun,Missing,Missing,Moraine collapse,0
+603,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL087130E27803N,27.8018,87.1283,4613.0,27.792,87.145,4109.0,Moraine dammed,1,Nepal,Koshi,Arun,Missing,Missing,Missing,0
+604,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL087230E29641N,29.640349,87.230561,5633.0,29.639,87.233,5585.0,Moraine dammed,0,China,TAR,Dogxung Zangbo,Missing,Missing,Missing,0
+605,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,Ephemeral,27.8317,87.6256,5219.0,27.831,87.622,5115.0,Moraine dammed,1,China,TAR,Pumqu,Missing,Missing,Missing,0
+606,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL087629E27672N,27.672,87.6299,4874.0,27.66837,87.63248,4781.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+607,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.8835,87.8298,5114.0,27.87,87.817,4579.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+608,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.7047,87.8952,4640.0,27.705,87.891,4474.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+609,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,Ephemeral,27.7827,87.9362,4847.0,27.777,87.942,4760.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+610,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL088078E27835N,27.8349,88.0787,5645.0,27.828,88.084,5446.0,Moraine dammed,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+611,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088185E27602N,27.6017,88.1858,4805.0,27.58292,88.18876,4580.0,Moraine dammed,0,India,Sikkim,East Rathong,Missing,Missing,Missing,0
+612,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088199E27913N,27.913,88.1981,5203.0,27.896,88.28,4864.0,Moraine dammed,0,India,Sikkim,Zemu,Missing,Missing,Missing,0
+613,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,27.859,88.2373,5420.0,27.85548,88.23737,5315.0,Moraine dammed,0,India,Sikkim,Zemu,Missing,Missing,Missing,0
+614,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088267E27937N,27.9352,88.2708,5214.0,27.936,88.274,5130.0,Moraine dammed,0,India,Sikkim,Zemu,Missing,Missing,Missing,0
+615,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL088300E29849N,29.850165,88.298174,5715.0,29.913,88.257,4710.0,Moraine dammed,0,China,TAR,Dogxung Zangbo,Missing,Missing,Missing,0
+616,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL088309E29782N,29.782404,88.308976,5672.0,29.782,88.322,5415.0,Moraine dammed,0,China,TAR,Yarlung Zangbo,Missing,Missing,Missing,0
+617,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL088365E29874N,29.873545,88.364841,5716.0,29.853,88.38,5255.0,Moraine dammed,0,China,TAR,Yarlung Zangbo,Missing,Missing,Missing,0
+618,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088494E28007N,28.0057,88.4931,5029.0,27.99648,88.47928,4860.0,Moraine dammed,0,India,Sikkim,Zemu,Missing,Missing,Missing,0
+619,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL088521E43827N,43.827488,88.521843,3746.0,43.827,88.51,3550.0,Moraine dammed,0,China,Xinjiang,China,Missing,Missing,Missing,0
+620,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088572E28008N,28.0073,88.5718,5004.0,27.986,88.592,4625.0,Moraine dammed,0,India,Sikkim,Zemu,Missing,Missing,Missing,0
+621,1936.9545454545455,Unnamed Lake in India,Unnamed Glacier in India,GL088863E27865N,27.8642,88.8627,4805.0,27.85748,88.85753,4747.0,Moraine dammed,0,India,Sikkim,Changme,Missing,Missing,Missing,0
+622,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089230E27809N,27.8086,89.2292,5155.0,27.81039,89.2088,4870.0,Moraine dammed,0,China,TAR,Amo Chhu,Missing,Missing,Missing,0
+623,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089248E27837N,27.8422,89.2406,5410.0,27.84333,89.23662,5330.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+624,1966.0,Jhomohari South,Unnamed Glacier in Bhutan,GL089268E27789N,27.789,89.267,4550.0,27.785,89.265,4359.0,Moraine dammed,1,Bhutan,Thimphu,Pa Chhu ,Missing,Ice avalanche,Missing,0
+625,1980.2242990654206,Zhuomolali,Zhuomolali,GL089268E27853N,27.8558,89.2661,5279.0,27.86144,89.26324,5200.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+626,1966.0,JiChudrake North 1,Unnamed Glacier in China,GL089312E27878N,27.88,89.31,5010.0,27.893,89.314,3950.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Ice calving,Missing,0
+627,1966.0,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL089350E27803N,27.804,89.35,4356.0,27.85414066666667,89.96726333333332,3829.733333333333,Moraine dammed,1,Bhutan,Thimphu,Pa Chhu ,Missing,Ice avalanche,Missing,0
+628,1966.0,JiChudrake North 2,Unnamed Glacier in China,GL089351E27884N,27.885,89.351,4990.0,27.933,89.348,4605.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Ice avalanche,Missing,0
+629,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089367E27892N,27.8916,89.3665,4986.0,27.905,89.375,4726.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+630,1966.0,Upper Chokham Tsho,Unnamed Glacier in Bhutan,GL089370E27836N,27.836,89.37,4430.0,27.837,89.379,4348.0,Moraine dammed,1,Bhutan,Punakha,Mo Chhu ,Missing,Ice avalanche,Missing,0
+631,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,28.1097,89.4912,5281.0,28.10469,89.47864,5025.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+632,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089513E28123N,28.1229,89.5134,5214.0,28.171,89.498,4660.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+633,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089534E28138N,28.1384,89.5339,5298.0,28.159,89.537,4980.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+634,1966.0,Simdong Goi Tsho,Unnamed Glacier in Bhutan,GL089812E28217N,28.217,89.811,5030.0,28.197,89.818,4613.0,Moraine dammed,1,Bhutan,Punakha,Mo Chhu ,Missing,Missing,Missing,0
+635,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL089848E28067N,28.0673,89.8479,4769.0,28.066,89.841,4575.0,Moraine dammed,0,China,TAR,Mo Chhu,Missing,Missing,Missing,0
+636,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.551365,89.857784,5550.0,29.549,89.843,5200.0,Moraine dammed,0,China,TAR,Yarlung Zangbo,Missing,Missing,Missing,0
+637,1966.0,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL089894E28036N,28.035,89.894,5200.0,28.05032,89.93115,5028.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Ice avalanche,Missing,0
+638,1980.7894736842106,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL089929E27921N,27.9211,89.9291,4836.0,27.913,89.923,4737.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu,Missing,Missing,Missing,0
+639,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL090136E28949N,28.949676,90.135797,4976.0,28.954,90.114,4810.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+640,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.830137,90.238011,5749.0,29.826,90.233,5487.0,Moraine dammed,0,China,TAR,Lhasa,Missing,Missing,Missing,0
+641,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,28.0114,90.3222,5515.0,28.00996,90.32552,5400.0,Moraine dammed,0,China,TAR,Mangde Chhu,Missing,Missing,Missing,0
+642,1990.0,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL090326E28087N,28.087,90.326,4706.0,28.09,90.316,4582.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Missing,Missing,1
+643,2009.0,Unnamed Lake in Bhutan,Unnamed Glacier in Bhutan,GL090326E28087N,28.087,90.326,4706.0,28.09,90.316,4582.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Missing,Missing,1
+644,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL090455E30287N,30.286856,90.455002,5704.0,30.284,90.444,5500.0,Moraine dammed,0,China,TAR,Lhasa,Missing,Missing,Missing,0
+645,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL090506E28241N,28.2419,90.5062,5482.0,28.332,90.501,4500.0,Moraine dammed,1,China,TAR,Kuri Chhu,Missing,Missing,Missing,0
+646,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL090520E29849N,29.849266,90.519983,5471.0,29.859,90.527,5257.0,Moraine dammed,0,China,TAR,Lhasa,Missing,Missing,Missing,0
+647,1980.2242990654206,Dongzhi,Dongzhi,GL090576E28167N,28.167,90.5761,5418.0,28.15,90.582,5000.0,Moraine dammed,1,China,TAR,Kuri Chhu,Missing,Missing,Missing,0
+648,1950.0,Lure Co,Unnamed Glacier in China,GL090590E28274N,28.27,90.59,5720.0,28.345,90.541,4430.0,Moraine dammed,1,China,TAR,Kuri Chhu ,Missing,Missing,Missing,0
+649,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.653685,90.592395,5658.0,29.655,90.597,5490.0,Moraine dammed,0,China,TAR,Lhasa,Missing,Missing,Missing,0
+650,1955.0,Cuoalong ,Cuoalong ,GL090603E28060N,28.06,90.605,4880.0,28.078,90.626,4718.0,Moraine dammed,0,China,TAR,Kuri Chhu ,Missing,Ice avalanche,Missing,0
+651,1956.0,Tarikha Tsho,Unnamed Glacier in Bhutan,GL089899E28106N,28.028,90.673,4790.0,28.003,90.669,4558.0,Moraine dammed,1,Bhutan,Bumthang,Chamkhar Chhu ,Missing,Missing,Missing,1
+652,1960.0,Tarikha Tsho,Unnamed Glacier in Bhutan,GL089899E28106N,28.028,90.673,4790.0,28.0,90.67,4530.0,Moraine dammed,1,Bhutan,Bumthang,Chamkhar Chhu,Missing,Missing,Missing,1
+653,1966.0,Dega Co,Wenjia,GL090674E28334N,28.33357,90.673572,4700.0,28.374,90.676,4235.0,Moraine dammed,1,China,TAR,Kuri Chhu ,Missing,Missing,Missing,0
+654,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL090683E30446N,30.445681,90.682592,5693.0,30.444,90.677,5595.0,Moraine dammed,0,China,TAR,Lhasa,Missing,Missing,Missing,0
+655,1966.0,Upper Jiejiu Co,Unnamed Glacier in China,GL090712E28273N,28.273,90.713,4730.0,28.272,90.717,4637.0,Moraine dammed,1,China,TAR,Kuri Chhu ,Missing,Ice avalanche,Missing,0
+656,1966.0,Upper Shegong Co,Unnamed Glacier in China,GL090741E28304N,28.304,90.741,4780.0,28.298,90.745,4742.0,Moraine dammed,1,China,TAR,Kuri Chhu ,Missing,Ice avalanche,Missing,0
+657,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092269E27953N,27.9531,92.2691,5239.0,27.953,92.272,5220.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+658,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092303E27892N,27.8922,92.3032,5143.0,27.911,92.304,4884.0,Moraine dammed,0,China,TAR,Nian Chu,Missing,Missing,Missing,0
+659,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,28.0078,92.3645,5356.0,28.012,92.371,5130.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+660,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092427E27886N,27.886,92.4277,5540.0,27.88578,92.42276,5435.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+661,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092470E27876N,27.8758,92.4698,5432.0,27.88222,92.48448,4940.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+662,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092503E27912N,27.9114,92.5032,5269.0,27.919,92.479,4736.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+663,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092535E27930N,27.9292,92.5352,5344.0,27.958,92.537,4590.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+664,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092641E28001N,28.0013,92.6407,5279.0,27.985,92.635,4944.0,Moraine dammed,0,China,TAR,Subansiri,Missing,Missing,Missing,0
+665,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL092749E28211N,28.2112,92.7491,5177.0,28.225,92.748,4788.0,Moraine dammed,0,China,TAR,Kuri Chhu,Missing,Missing,Missing,0
+666,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL093060E29482N,29.482066,93.059681,5274.0,29.484631,93.073735,4940.0,Moraine dammed,0,China,TAR,Yarlung Zangbo,Missing,Missing,Missing,0
+667,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL093193E29792N,29.792388,93.192874,5062.0,29.787,93.207,4610.0,Moraine dammed,0,China,TAR,Nyang,Missing,Missing,Missing,0
+668,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL093211E29636N,29.635614,93.211215,4959.0,29.641,93.206,4800.0,Moraine dammed,0,China,TAR,Nyang,Missing,Missing,Missing,0
+669,2003.0,Oubuguoco Upper,Unnamed Glacier in China,GL093546E29632N,29.632594,93.545783,4674.0,29.627794,93.555324,4570.0,Moraine dammed,0,China,TAR,China,Missing,Ice avalanche,Missing,0
+670,2002.0,Unnamed Lake in China,Unnamed Glacier in China,GL093546E29632N,29.6323,93.5462,4660.0,29.628,93.556,4570.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+671,1976.0,Sanga North,Sanga North,GL093898E30128N,30.1282,93.8981,4292.0,30.097,93.861,3900.0,Moraine dammed,0,China,TAR,Nyang,Missing,Missing,Missing,0
+672,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL093975E30733N,30.733582,93.975659,4906.0,30.725,93.979,4770.0,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+673,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL094035E30562N,30.562485,94.03517,4855.0,30.559,94.035,4780.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+674,2002.0,Jitang South,Unnamed Glacier in China,GL094324E30684N,30.6842,94.3239,4128.0,30.725,94.325,3780.0,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+675,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL094366E30929N,30.929695,94.366396,5271.0,30.924,94.353,4965.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+676,2013.0,Unnamed Lake in China,Unnamed Glacier in China,GL094944E30532N,30.5319,94.9444,3876.0,30.505,94.94,3460.0,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+677,1980.2242990654206,Anjuezhu,Anjuezhu,GL096125E29363N,29.36332,96.125252,3998.0,29.367,96.202,2960.0,Moraine dammed,1,China,TAR,Lohit,Missing,Missing,Missing,0
+678,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL096430E29432N,29.43212,96.429175,4557.0,29.441,96.42,4130.0,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+679,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL096548E29744N,29.74463,96.548727,5126.0,29.784,96.58,4615.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+680,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.945197,96.582048,5323.0,29.952,96.606,4846.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+681,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL096612E29615N,29.614581,96.61175,5173.0,29.609,96.591,4662.0,Moraine dammed,0,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+682,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,28.407885,100.348414,4510.0,28.416,100.351,4170.0,Moraine dammed,0,China,Sichuan,China,Missing,Missing,Missing,0
+683,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,29.367384,96.976407,5124.0,29.356,96.978,4976.0,Moraine dammed,1,China,TAR,Yigong Zangbo,Missing,Missing,Missing,0
+684,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097068E29509N,29.508833,97.067874,5285.0,29.504,97.125,4960.0,Moraine dammed,1,China,TAR,Lohit,Missing,Missing,Missing,0
+685,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097102E29424N,29.42356,97.102185,5037.0,29.437,97.135,4600.0,Moraine dammed,1,China,TAR,Lohit,Missing,Missing,Missing,0
+686,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097210E29612N,29.612833,97.210091,5271.0,29.594,97.202,4828.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+687,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097223E29651N,29.651882,97.223338,5292.0,29.663,97.213,5000.0,Moraine dammed,0,China,TAR,China,Missing,Missing,Missing,0
+688,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097285E28919N,28.918581,97.285268,4536.0,28.919,97.279,4500.0,Moraine dammed,1,China,TAR,Lohit,Missing,Missing,Missing,0
+689,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL097333E29229N,29.228809,97.332981,4767.0,29.259,97.345,4150.0,Moraine dammed,0,China,TAR,Lohit,Missing,Missing,Missing,0
+690,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,30.941492,101.535695,4207.0,31.055,101.558,2640.0,Moraine dammed,0,China,Sichuan,China,Missing,Landslide,Missing,0
+691,1976.0,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,GL081877E30251N,30.252,81.878,5377.0,30.246,81.855,4813.0,Supraglacial,1,Nepal,Karnali,Humla,Missing,Missing,Missing,0
+692,1978.6333333333334,Unnamed Lake in Nepal,Unnamed Glacier in Nepal,No lake,29.644,82.805,5087.0,29.656,82.799,4705.0,Supraglacial,1,Nepal,Karnali,Mugu Karnali,Missing,Missing,Moraine collapse,0
+693,1962.0,Jaritar,Sharphu,Ephemeral,27.769867,87.87497,4360.0,27.75107,87.8617,3900.0,Supraglacial,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+694,1962.0,Khangpachen,Ramdan,Ephemeral,27.766255,88.02664,4780.0,28.542063219607844,85.27488900130719,4166.418954248366,Supraglacial,1,Nepal,Koshi,Tamor,Missing,Missing,Missing,0
+695,1992.0,Unnamed Lake in India,Unnamed Glacier in India,Ephemeral,27.564916,88.107834,4727.0,27.54,88.135,4210.0,Supraglacial,0,India,Sikkim,East Rathong,Missing,Missing,Missing,0
+696,1956.0,Chubda Tsho,Unnamed Glacier in Bhutan,GL090708E28021N,28.02,90.705,4870.0,27.982,90.679,4399.0,Supraglacial,1,Bhutan,Bumthang,Chamkhar Chhu ,Missing,Missing,Ice core thawing,0
+697,1996.0,Unnamed Lake in India,Unnamed Glacier in India,GL092386E27707N,27.706998,92.385856,5060.0,27.675,92.393,4608.0,Supraglacial,0,India,Arunachal Pradesh,Manas,Missing,Missing,Missing,0
+698,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL079706E32216N,32.215365,79.7054,5133.0,32.196,79.684,4837.0,Moraine dammed,0,China,Xinjiang,Upper Indus,Missing,Missing,Missing,0
+699,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,32.23396,79.7619,5499.0,32.246,79.793,4990.0,Moraine dammed,0,China,Xinjiang,Upper Indus,Missing,Missing,Missing,0
+700,1980.2242990654206,Unnamed Lake in China,Unnamed Glacier in China,GL077181E35675N,31.16185,81.1357,5570.0,31.165,81.128,5333.0,Moraine dammed,0,China,Xinjiang,Sutlej,Missing,Missing,Missing,0
+701,1960.0,Glaciers in Lunana,Glaciers in Lunana,GL089899E28106N,28.0351,90.3099,5293.0,27.35,89.52,1220.0,Moraine dammed,1,Bhutan,Punakha,Pho Chhu ,Missing,Missing,Missing,0
+702,1979.6666666666667,Unnamed Lake in Kazakhstan,Unnamed Glacier in Kazakhstan,Ephemeral,42.267029,70.747063,3283.0,42.297,70.742,2300.0,Water pocket,0,Kazakhstan,Kazakhstan,Aksu,Missing,Missing,Missing,0
